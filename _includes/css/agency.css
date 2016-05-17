@@ -12,7 +12,7 @@ body {
 
 .text-muted {
     color: #{{ site.data.template.color.muted }};
-    font-size: 17px;
+    font-size: 16px;
 }
 
 .text-primary {
