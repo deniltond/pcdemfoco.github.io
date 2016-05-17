@@ -11,7 +11,8 @@ body {
 }
 
 .text-muted {
-    #{{ site.data.template.color.muted }};
+    color: #{{ site.data.template.color.muted }};
+    font-size: 17px;
 }
 
 .text-primary {
@@ -315,7 +316,7 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
-        font-size: 75px;
+        font-size: 65px;
         font-weight: 700;
         line-height: 75px;
     }
@@ -342,7 +343,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 125px 0;
     }
 }
 
