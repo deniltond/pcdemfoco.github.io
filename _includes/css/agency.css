@@ -268,7 +268,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/wallpaper_cadeira.jpg');
+    background-image: url('{{ site.baseurl }}/img/capa_site3.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
