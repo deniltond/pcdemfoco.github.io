@@ -6,6 +6,19 @@
 
     <body id="page-top" class="index">
 
+      <script type="text/javascript">
+        var _hta = {'_setToken': '4f79053484d30a048dcd61516cfc7c43a7cb024d','_htException': 'HandTalk_EXCECAO'};
+        (function() {
+          var ht = document.createElement('script'); ht.type = 'text/javascript'; ht.async = true;
+          ht.src = '//api.handtalk.me/handtalk_init.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.appendChild(ht);
+        })();
+        //  HandTalk_EXCECAO -> ID ou CLASSE do elemento que desejar exceção, separados por virgula
+        //  Exemplo:  '#menu,.listas,.formulario,#carrousel'
+      </script>
+
+
     {% include header.html %}
     {% include services.html %}
     {% include about.html %}
