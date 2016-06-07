@@ -1,4 +1,4 @@
-url: https://pcdemfoco.com.br
+url: http://www.pcdemfoco.com.br
 baseurl: ""
 
 # Site settings
@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Rua Fulano de Tal
-  - line: Forianópolis, SC
+  - line: Rua A
+  - line: São José, SC
 
 # Build settings
 markdown: kramdown
