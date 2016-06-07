@@ -1,11 +1,11 @@
-url: https://pcdemfoco.github.io
+url: https://pcdemfoco.com.br
 baseurl: ""
 
 # Site settings
 title: PcD em Foco
 email: romeu.smattos@gmail.com
 description: "Bem vindo ao maior portal de Santa Catarina exclusivo para pessoas com deficiência que buscam oportunidades adequadas as suas competências e interesses."
-
+image: /img/logo.png
 
 # Team names, titles and social links
 people:
