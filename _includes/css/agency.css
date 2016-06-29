@@ -324,33 +324,23 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
-/*header #logo {
-  margin-top: 100px;
-  margin-left: 250px;
-  width: 594px;
-  height: 266px;
-  background-image: url('{{ site.baseurl }}/img/logo.png');
-  background-position: center center;
-  background-repeat: none;
-}*/
+/*768px*/
+@media(min-width:1000px) {
+    header #logo {
+      margin-top: 100px;
+      /*margin-left: 250px;*/
+      margin-left: 24%;
+      width: 594px;
+      height: 266px;
+      background-image: url('{{ site.baseurl }}/img/logo.png');
+      background-repeat: none;
+      background-position: center;
+    }
 
-
-@media(min-width:768px) {
     header .intro-text {
         padding-top: 30px;
         padding-bottom: 100px;
     }
-
-    header #logo {
-      margin-top: 100px;
-      margin-left: 250px;
-      width: 594px;
-      height: 266px;
-      background-image: url('{{ site.baseurl }}/img/logo.png');
-      background-position: center center;
-      background-repeat: none;
-    }
-
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
