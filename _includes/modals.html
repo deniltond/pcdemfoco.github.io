@@ -1,6 +1,6 @@
  <!-- Portfolio Modals -->
  {% for post in site.posts %}
-    <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="modal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -15,18 +15,29 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <h4> Descrição </h4>
                             <p>{{ post.description }}</p>
+                            <h4> Pré-requisitos </h4>
+                            <p>{{ post.requirements }}</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                <li>Empresa:
+                                    <strong>{{ post.company }}
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                <li>Cargo:
+                                    <strong>{{ post.job }}
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <li>Salário:
+                                    <strong>{{ post.salary }}
+                                    </strong>
+                                </li>
+                                <li>Município:
+                                    <strong>{{ post.city }}
+                                    </strong>
+                                </li>
+                                <li>Bairro:
+                                    <strong>{{ post.neighborhood }}
                                     </strong>
                                 </li>
                             </ul>
