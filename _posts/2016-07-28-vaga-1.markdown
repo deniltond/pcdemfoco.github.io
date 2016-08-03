@@ -1,5 +1,5 @@
 ---
-title: Recepcionista
+title: Auxiliar Administrativo
 subtitle: Florianópolis - SC
 layout: default
 modal-id: 1
@@ -7,13 +7,10 @@ date: 2014-07-18
 img: logo-pcd-thumbnail.png
 thumbnail: logo-pcd-thumbnail.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
-job: Recepcionista
-city: Florianópolis - SC
-neighborhood: Forquilhinhas
-salary: R$ 800,00
-requirements: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-company: Não Informado
-
+description: Auxiliar na emissão de nota fiscal, folha de pagamento, vale transporte, vale refeição, além de manter a organização dos documentos.
+job: Auxiliar Administrativo
+city: Florianópolis- SC
+neighborhood: Centro
+salary: R$ 1.500,00 a 2.000,00
+requirements: Ensino Médio Completo, vivência na área administrativa;
 ---
