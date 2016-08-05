@@ -171,6 +171,19 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+li .btn-xl-secundary-top {
+    padding: 20px 40px;
+    border-color: #{{ site.data.template.color.secondary }};
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff !important;
+    background-color: #{{ site.data.template.color.secondary }};
+}
+
+
 .btn-xl-secundary {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.secondary-green }};
