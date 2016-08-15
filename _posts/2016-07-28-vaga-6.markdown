@@ -1,0 +1,20 @@
+---
+title: Auxiliar Administrativo
+subtitle: Florianópolis -  SC
+layout: default
+modal-id: 6
+date: 2016-08-15
+img: fiesc.png
+thumbnail: fiesc.png
+alt: image-alt
+description: "Duas vagas: uma vaga das 9h às 13h e outra das 13h às 17h"
+job: Auxiliar Administrativo
+city: Florianópolis -  SC
+neighborhood: Itacorubi
+salary: R$ 616,17
+requirements: "Ensino médio completo"
+company: FIESC
+quantity: 02
+benefits: "Estacionamento; Plano de Saúde; Vale transporte ; Plano Odontológico; PPR/PL; Previdência Privada; Seguro de vida em grupo"
+
+---
