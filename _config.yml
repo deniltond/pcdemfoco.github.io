@@ -48,8 +48,8 @@ social:
   #   url: #
   - title: facebook
     url: https://www.facebook.com/PcD-em-Foco-1136871039688188
-  # - title: linkedin
-  #   url: #
+  - title: linkedin
+    url: https://www.linkedin.com/company/pcd-em-foco
 
 # Postal address (add as many lines as necessary)
 address:
