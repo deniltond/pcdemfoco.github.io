@@ -15,4 +15,5 @@ salary: R$ 1.500,00 a 2.000,00
 requirements: Ensino Médio Completo, vivência na área administrativa;
 quantity: Não informado
 benefits: Não informado
+company: Não informado
 ---

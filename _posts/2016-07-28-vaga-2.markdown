@@ -15,4 +15,6 @@ salary: R$ 1.400,00 a 1.800,00
 requirements: Ensino Médio Completo
 quantity: Não informado
 benefits: Não informado
+company: Não informado
+
 ---
