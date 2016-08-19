@@ -4,8 +4,8 @@ subtitle: Florianópolis - SC
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: logo-pcd-thumbnail.png
-thumbnail: logo-pcd-thumbnail.png
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
 alt: image-alt
 description: Auxiliar na emissão de nota fiscal, folha de pagamento, vale transporte, vale refeição, além de manter a organização dos documentos.
 job: Auxiliar Administrativo

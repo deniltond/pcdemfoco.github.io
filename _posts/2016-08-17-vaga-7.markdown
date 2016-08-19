@@ -4,8 +4,8 @@ subtitle: Florianópolis -  SC
 layout: default
 modal-id: 7
 date: 2016-08-17
-img: logo-pcd-thumbnail.png
-thumbnail: logo-pcd-thumbnail.png
+img: ibagy.jpg
+thumbnail: ibagy.jpg
 alt: image-alt
 description: "Atividades a desenvolver: Atender locadores, locatários e prestadores de serviço para a manutenção de imóveis; Revisar os procedimentos do setor e solicitar alterações, se necessário; Emitir ordens de serviço e auxiliar nas demandas do setor. Pré- requisitos: Superior em andamento ou completo em áreas afins; Experiência na área administrativa e relacionamento com cliente; Conhecimento de pacote office (Excel/Word)."
 job: Auxiliar Administrativo de Manutenção
