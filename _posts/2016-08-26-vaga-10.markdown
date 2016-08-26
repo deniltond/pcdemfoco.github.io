@@ -1,0 +1,19 @@
+---
+title: Auxiliar de vendas
+subtitle: Florianópolis - SC
+layout: default
+modal-id: 10
+date: 2016-08-26
+img: catarinense.jpg
+thumbnail: catarinense-thumbnail.jpg
+alt: image-alt
+description: "Auxiliar de vendas - Florianópolis - SC"
+job: Auxiliar de vendas
+city: Florianópolis -  SC
+neighborhood: Centro
+salary: Não Informado
+requirements: "Cursando ensino médio e disponibilidade para trabalhar finais de semana, não ter problema em carregar bagagens."
+company: Auto Viação Catarinense
+quantity: 01
+benefits: "Vale alimentação; Plano de Saúde; Vale transporte; Plano Médico;	Plano Odontológico"
+---

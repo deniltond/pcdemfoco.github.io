@@ -9,7 +9,7 @@ thumbnail: zen.gif
 alt: image-alt
 description: "Conhecimento em: Programação Java WEB, HTML, CSS, JSP, JavaScript Banco de Dados Oracle / PLSQL Conhecimento em análise de Negócios BPMN -Mapeamento de Processos – (Desejável) FrameWork Bootstrap (Desejável) Gestão de Projetos (Desejável)"
 job: Repositor
-city: Florianópolis -  SC
+city: Busque -  SC
 neighborhood: Steffen
 salary: Não Informado
 requirements: "Cursando Superior em Ciências da Computação, Sistemas de Informação, Administração ou áreas afins."
