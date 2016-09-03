@@ -1,0 +1,19 @@
+---
+title: Auxiliar Administrativo
+subtitle: Florianópolis - SC
+layout: default
+modal-id: 11
+date: 2016-08-26
+img: neolabor.jpg
+thumbnail: neolabor.jpg
+alt: image-alt
+description: "Atender locadores, locatários e prestadores de serviços para a manutenção dos imóveis; Revisar procedimentos do setor e solicitar alterações; Emitir ordens de serviço e auxiliar nas demandas do setor."
+job: Auxiliar Administrativo
+city: Florianópolis -  SC
+neighborhood: Não Informado
+salary: R$ R$ 1.500,00
+requirements: "Formação superior completa ou em andamento em cursos afins; Experiência na área administrativa e com atendimento ao cliente; Conhecimento em Pacote Office."
+company: Neo Labor
+quantity: 01
+benefits: "Vale alimentação; Vale transporte; Plano Médico; Plano Odontológico"
+---
