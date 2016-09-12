@@ -11,7 +11,7 @@ description: "Atender locadores, locatários e prestadores de serviços para a m
 job: Auxiliar Administrativo
 city: Florianópolis -  SC
 neighborhood: Não Informado
-salary: R$ R$ 1.500,00
+salary: R$ 1.500,00
 requirements: "Formação superior completa ou em andamento em cursos afins; Experiência na área administrativa e com atendimento ao cliente; Conhecimento em Pacote Office."
 company: Neo Labor
 quantity: 01
