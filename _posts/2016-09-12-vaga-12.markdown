@@ -1,5 +1,5 @@
 ---
-title: Analista Gente & Gestão
+title: Operador de Produção
 subtitle: São José - SC
 layout: default
 modal-id: 12
@@ -8,7 +8,7 @@ img: jbs.jpg
 thumbnail: jbs.jpg
 alt: image-alt
 description: "Irá auxiliar no processo produtivo, abastecimento de linha, transformação de matéria prima, inspeção final e demais atividades pertinentes ao cargo."
-job: Analista Gente & Gestão
+job: Operador de Produção
 city: São José - SC
 neighborhood: Colônia Santana
 salary: Não Informado
