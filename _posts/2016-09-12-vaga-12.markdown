@@ -17,4 +17,3 @@ company: JBS Foods
 quantity: 01
 benefits: "Alimentação no local; Plano Médico; Plano Odontológico; Transporte fretado"
 ---
----

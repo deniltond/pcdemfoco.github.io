@@ -1,0 +1,19 @@
+---
+title: Auto Viação Catarinense
+subtitle: Florianópolis - SC
+layout: default
+modal-id: 13
+date: 2016-09-14
+img: catarinense.jpg
+thumbnail: catarinense-thumbnail.jpg
+alt: image-alt
+description: "Atuar na venda de bilhetes de passagens no Terminal Rita Maria - Florianópolis."
+job: Auxiliar de Vendas
+city: Florianópolis -  SC
+neighborhood: Centro
+salary: R$ 1.232,00 mais comissões
+requirements: "Disponibilidade para trabalhar no horário das  14h00 às 22h00"
+company: Auto Viação Catarinense
+quantity: 01
+benefits: "	Estacionamento; Vale alimentação; Plano de Saúde; Plano Médico; PPR/PL"
+---
