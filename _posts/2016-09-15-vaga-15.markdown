@@ -1,6 +1,6 @@
 ---
 title: Assistente Administrativo I
-subtitle: Florianópolis - SC
+subtitle: Centro - Florianópolis
 layout: default
 modal-id: 15
 date: 2016-09-15
