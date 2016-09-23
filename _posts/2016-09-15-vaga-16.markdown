@@ -1,0 +1,19 @@
+---
+title: Auxiliar Administrativo
+subtitle: Centro - Itajaí
+layout: default
+modal-id: 15
+date: 2016-09-15
+img: sesi.jpg
+thumbnail: sesi.jpg
+alt: image-alt
+description: Auxiliar nas rotinas administrativas e recepção
+job: Auxiliar Administrativo
+city: Itajaí - SC
+neighborhood: Centro
+salary: R$ 1.018,32
+requirements: Ensino Médio
+company: FAHECE - Fundação de Apoio ao HEMOSC/CEPON
+quantity: 01
+benefits: "Vale alimentação; Plano de Saúde; Vale transporte; Plano Odontológico; PPR/PL; Previdência Privada	"
+---
