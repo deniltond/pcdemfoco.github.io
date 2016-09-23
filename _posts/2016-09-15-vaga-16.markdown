@@ -4,8 +4,8 @@ subtitle: Centro - Itajaí
 layout: default
 modal-id: 15
 date: 2016-09-15
-img: sesi.jpg
-thumbnail: sesi.jpg
+img: sesi.png
+thumbnail: sesi.png
 alt: image-alt
 description: Auxiliar nas rotinas administrativas e recepção
 job: Auxiliar Administrativo
