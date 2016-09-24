@@ -1,11 +1,11 @@
 ---
-title: Auto Viação Catarinense
+title: Auxiliar de Vendas
 subtitle: Florianópolis - SC
 layout: default
 modal-id: 13
 date: 2016-09-14
 img: catarinense.jpg
-thumbnail: catarinense-thumbnail.jpg
+thumbnail: catarinense.jpg
 alt: image-alt
 description: "Atuar na venda de bilhetes de passagens no Terminal Rita Maria - Florianópolis."
 job: Auxiliar de Vendas

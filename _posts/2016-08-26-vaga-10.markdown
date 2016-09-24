@@ -5,7 +5,7 @@ layout: default
 modal-id: 10
 date: 2016-08-26
 img: catarinense.jpg
-thumbnail: catarinense-thumbnail.jpg
+thumbnail: catarinense.jpg
 alt: image-alt
 description: "Auxiliar de vendas - Florianópolis - SC"
 job: Auxiliar de vendas
