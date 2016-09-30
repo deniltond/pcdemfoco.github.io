@@ -8,11 +8,11 @@ img: rbs.jpg
 thumbnail: rbs.jpg
 alt: image-alt
 description: "
-.         Realizar a limpeza das máquinas da gráfica rotativa (limpeza de trancas, dobradeiras, etc.) com os produtos e equipamentos fornecidos pela empresa;
-·         Prezar pela conservação da máquina (parte externa);
-·         Utilizar os equipamentos de proteção individuais;
-·         Preparar as bobinas para impressão (marcar o número, posicionar para preparo);
-·         Prestar apoio aos impressores (abastecimento de tinta, retirada e colocação de chapas, etc.).
+Realizar a limpeza das máquinas da gráfica rotativa (limpeza de trancas, dobradeiras, etc.) com os produtos e equipamentos fornecidos pela empresa;
+Prezar pela conservação da máquina (parte externa);
+Utilizar os equipamentos de proteção individuais;
+Preparar as bobinas para impressão (marcar o número, posicionar para preparo);
+Prestar apoio aos impressores (abastecimento de tinta, retirada e colocação de chapas, etc.).
 "
 job: Auxiliar Preparação de Máquina
 city: Florianópolis - SC
