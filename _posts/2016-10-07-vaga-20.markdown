@@ -1,0 +1,19 @@
+---
+title: Analista Administrativo
+subtitle: Itajaí
+layout: default
+modal-id: 20
+date: 2016-08-07
+img: sesi.png
+thumbnail: sesi.png
+alt: image-alt
+description: "Carga horária de 30 horas semanais, para executar rotinas administrativas."
+job: Analista Administrativo
+city: Itajaí - SC
+neighborhood: Barra do Rio
+salary: R$ 1.714,38
+requirements: Ensino Superior Completo
+company: SENAI/SC
+quantity: 01
+benefits: "Vale alimentação/Refeição; Plano de Saúde; Vale transporte; PPR/PL; Previdência; Privada	Seguro de Vida; Estacionamento no local"
+---
