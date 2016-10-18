@@ -3,7 +3,7 @@ title: Analista Administrativo
 subtitle: Itajaí
 layout: default
 modal-id: 20
-date: 2016-08-07
+date: 2016-10-07
 img: sesi.png
 thumbnail: sesi.png
 alt: image-alt
