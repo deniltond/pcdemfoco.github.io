@@ -2,8 +2,9 @@
 color:
   primary: 0f75bc
   secondary: 258cd4
-  secondary-green: 39b54a   
+  secondary-green: 39b54a
   secondary-dark: 333
+  secondary-orange: f39220
   muted: 777
 
 # Font Families
