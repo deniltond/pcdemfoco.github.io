@@ -17,7 +17,7 @@ Experiência em atendimento a cliente e administrativa em geral. Interesse em ap
 </br> Aririba - Balneário Camboriú
 </br> Vila Lalau - Jaraguá do Sul
 "
-job: Analista Administrativo
+job: Assistente Administrativo
 city: Florianópolis, Blumenau e Joinville - SC
 neighborhood: "Informados acima"
 salary: Não Informado
