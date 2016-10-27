@@ -1,5 +1,5 @@
 ---
-title: Analista Administrativo
+title: Auxiliar Administrativo
 subtitle: Brusque - SC
 layout: default
 modal-id: 23
@@ -8,7 +8,7 @@ img: empresa-confidencial.png
 thumbnail: empresa-confidencial.png
 alt: image-alt
 description: "Vaga para carga horária de 4 horas/dia."
-job: Analista Administrativo
+job: Auxiliar Administrativo
 city: Brusque - SC
 neighborhood: Primeiro de Maio
 salary: Não Informado
