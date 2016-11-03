@@ -22,7 +22,7 @@ city: Florianópolis, Blumenau e Joinville - SC
 neighborhood: "Informados acima"
 salary: Não Informado
 requirements: Ensino Médio completo.
-company: Confidencial
+company: Le Monde Citroën 
 quantity: 06
 benefits: "Vale alimentação/Refeição; Vale transporte;"
 ---
