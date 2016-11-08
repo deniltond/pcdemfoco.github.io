@@ -1,6 +1,6 @@
 ---
 title: Analista Administrativo
-subtitle: Itajaí
+subtitle: Itajaí - SC
 layout: default
 modal-id: 20
 date: 2016-10-07
