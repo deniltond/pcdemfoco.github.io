@@ -9,7 +9,7 @@ thumbnail: empresa-confidencial.png
 alt: image-alt
 description: "Horário de trabalho: 08h00 as 18h00"
 job: Auxiliar Administrativo
-city: Biguaçu - SC
+city: Joinville - SC
 neighborhood: Glória 
 salary: Não Informado
 requirements: Ensino médio completo.
