@@ -7,7 +7,7 @@ date: 2016-11-08
 img: empresa-confidencial.png
 thumbnail: empresa-confidencial.png
 alt: image-alt
-description: "Carga horária de 30 horas semanais, para executar rotinas administrativas."
+description: "Horário de trabalho: 08h00 as 18h00"
 job: Auxiliar Administrativo
 city: Biguaçu - SC
 neighborhood: Morro da Bina 
