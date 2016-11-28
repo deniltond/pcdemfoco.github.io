@@ -1,19 +1,19 @@
 ---
 title: Auxiliar Administrativo
-subtitle: São José - SC
+subtitle: Itajaí - SC
 layout: default
-modal-id: 17
-date: 2016-09-26
-img: dimas.png
-thumbnail: dimas.png
+modal-id: 26
+date: 2016-11-28
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
 alt: image-alt
 description: "Lançamento de notas, cadastro de clientes, pedidos de materiais e pesquisa de satisfação."
 job: Auxiliar Administrativo
-city: São José - SC
-neighborhood: Não Informado
+city: Itajaí - SC
+neighborhood: Fazendinha
 salary: R$ 1.490,00
 requirements: Ensino Médio Completo
-company: DIMAS COMERCIO DE AUTOMÓVEIS
-quantity: 02
+company: Não informado
+quantity: 01
 benefits: "Vale alimentação; Vale transporte"
 ---
