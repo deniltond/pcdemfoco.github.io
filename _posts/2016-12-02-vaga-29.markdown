@@ -1,0 +1,19 @@
+---
+title: Técnico de Informática
+subtitle: São José - SC
+layout: default
+modal-id: 29
+date: 2016-12-02
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Fazer manutenção de computadores e notebooks, diagnosticar os problemas, trocar as peças e efetuar os testes; Instalação e desinstalação de softwares básicos; Manutenção de ativos de redes e cabeamento; Realizar o atendimento aos usuários pessoalmente e via telefone; Diagnosticar problemas de hardware(fonte, memória, processador, placa mãe, etc) Realizar testes de equipamentos; Instalação e configuração de periféricos como impressoras, scanner, monitores, teclados e etc."
+job: Técnico de Informática
+city: São José - SC
+neighborhood: Centro Industrial
+salary: A combinar
+requirements: Curso Técnico
+company: Confidencial
+quantity: 01
+benefits: "Vale alimentação/Refeição; Plano de Saúde; Vale transporte; Plano Odontológico"
+---
