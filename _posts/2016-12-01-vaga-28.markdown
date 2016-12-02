@@ -1,0 +1,19 @@
+---
+title: Atendente de Farmácia
+subtitle: Itajaí - SC
+layout: default
+modal-id: 28
+date: 2016-12-01
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Atendente de Farmácia"
+job: Atendente de Farmácia
+city: Itajaí - SC
+neighborhood: Centro
+salary: R$ 1.158,00
+requirements: Ensino Médio
+company: Confidencial
+quantity: 01
+benefits: "Nâo informado"
+---
