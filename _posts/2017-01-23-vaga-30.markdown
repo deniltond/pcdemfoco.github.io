@@ -1,0 +1,19 @@
+---
+title: Auxiliar de Produção
+subtitle: São José - SC
+layout: default
+modal-id: 30
+date: 2017-01-23
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Movimentação e organização de material carga e descarga de caminhão"
+job: Auxiliar de Produção
+city: São José - SC
+neighborhood: Área Industrial
+salary: 1.289,14
+requirements: Ensino fundamental completo e disponibilidade para trabalhar em equipe
+company: Confidencial
+quantity: 01
+benefits: "Alimentação no local; Vale transporte; Estacionamento no local; Convênio médico e odontológico"
+---
