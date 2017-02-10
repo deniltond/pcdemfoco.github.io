@@ -1,0 +1,19 @@
+---
+title: Auxiliar de Estoque
+subtitle: Antonio Carlos - SC
+layout: default
+modal-id: 32
+date: 2017-02-09
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Organizar produtos; Montar Pallets e cargas, Limpeza do setor, separação de papelão e plásticos, PET e Lata. </br> Horário: 22h as 07h segunda a sábado"
+job: Auxiliar de Estoque
+city: Antonio Carlos - SC
+neighborhood: Centro
+salary: R$ 1439,00 + 30% de adicional noturno
+requirements: Ensino fundamental
+company: Confidencial
+quantity: 01
+benefits: "Alimentação no local; Vale alimentação/Refeição; Plano de Saúde; Vale transporte; Plano Odontológico; PPR/PL		Seguro de Vida; Estacionamento no local"
+---
