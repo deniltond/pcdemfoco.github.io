@@ -1,6 +1,6 @@
 ---
 title: Auxiliar de Processo
-subtitle: Antonio Carlos - SC
+subtitle: Antônio Carlos - SC
 layout: default
 modal-id: 33
 date: 2017-02-09
@@ -9,7 +9,7 @@ thumbnail: empresa-confidencial.png
 alt: image-alt
 description: "Limpeza e auxiliar operadores de máquina </br> Horário: 13:20 as 21:40 segunda a sábado"
 job: Auxiliar de Processo
-city: Antonio Carlos - SC
+city: Antônio Carlos - SC
 neighborhood: Centro
 salary: R$ 1439,00
 requirements: Ensino fundamental
