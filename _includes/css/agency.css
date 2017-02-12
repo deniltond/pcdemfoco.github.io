@@ -298,7 +298,7 @@ li .btn-xl-secundary-top {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: rgba(34, 34, 34, 0.88);
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
