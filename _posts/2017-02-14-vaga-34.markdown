@@ -1,0 +1,19 @@
+---
+title: Atendente de Portaria
+subtitle: Balneário Camboriú - SC
+layout: default
+modal-id: 34
+date: 2017-02-09
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Controle de entrada de pessoas e veículos na empresa. </br> Horário: Escala 12X36 07:00 as 19:00 ou das 19:00 as 07:00"
+job: Atendente de Portaria
+city: Balneário Camboriú - SC
+neighborhood: São Judas Tadeu
+salary: R$ 1.209,00
+requirements: Ensino Médio
+company: Confidencial
+quantity: 02
+benefits: "Alimentação no local; Vale alimentação/Refeição; Plano de Saúde; Vale transporte; Plano Odontológico; PPR/PL		Seguro de Vida; Estacionamento no local"
+---
