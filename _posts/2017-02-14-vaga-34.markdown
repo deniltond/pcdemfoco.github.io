@@ -15,5 +15,5 @@ salary: R$ 1.209,00
 requirements: Ensino Médio
 company: Confidencial
 quantity: 02
-benefits: "Alimentação no local; Vale alimentação/Refeição; Plano de Saúde; Vale transporte; Plano Odontológico; PPR/PL		Seguro de Vida; Estacionamento no local"
+benefits: "Vale alimentação/Refeição; Plano de Saúde; Vale transporte; Plano Odontológico; PPR/PL; Seguro de Vida; Estacionamento no local; Auxílio Farmácia"
 ---

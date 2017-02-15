@@ -1,0 +1,19 @@
+---
+title: Promotor de Vendas
+subtitle: Blumenau - SC
+layout: default
+modal-id: 35
+date: 2017-02-09
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Promover a marca e dispor os produtos na prateleiras. </br> Horário: das 07:30 as 17:30"
+job: Promotor de Vendas
+city: Blumenau - SC
+neighborhood: Não informado
+salary: R$ 1435,00
+requirements: Ensino Fundamental Completo e CNH AB
+company: Confidencial
+quantity: 01
+benefits: "Vale alimentação/Refeição; Plano de Saúde; Vale transporte; Plano Odontológico; PPR/PL; Seguro de Vida"
+---
