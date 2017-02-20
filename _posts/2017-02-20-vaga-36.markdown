@@ -1,0 +1,19 @@
+---
+title: Orientador de Estacionamento
+subtitle: Blumenau - SC
+layout: default
+modal-id: 36
+date: 2017-02-20
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Atendimento ao Cliente, Organização e Limpeza do Local. </br> Horário: das 11:00 ás 19:50"
+job: Orientador de Estacionamento
+city: Blumenau - SC
+neighborhood: Centro
+salary: R$ 1350,00
+requirements: Ensino Fundamental
+company: Confidencial
+quantity: 01
+benefits: "Alimentação no local; Plano de Saúde; Vale transporte; Plano Odontológico; Seguro de Vida"
+---
