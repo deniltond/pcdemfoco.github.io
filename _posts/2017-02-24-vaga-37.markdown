@@ -15,5 +15,5 @@ salary: Não informado
 requirements: Ensino Médio Completo; Pró ativo e organização
 company: Confidencial
 quantity: 01
-benefits: "Não informado"
+benefits: "Vale alimentação; Vale transporte"
 ---
