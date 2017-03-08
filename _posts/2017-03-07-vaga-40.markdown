@@ -1,0 +1,19 @@
+---
+title: Consultor Técnico
+subtitle: Balneário Camboriú - SC
+layout: default
+modal-id: 39
+date: 2017-03-07
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Atender os clientes de pós-vendas, recepcionar os veículos para que seja executado o processo de pós-vendas, ofertar acessórios aos clientes e manter ou ampliar o grau de satisfação dos clientes. </br> Horário: Segunda a sexta - Horário a combinar"
+job: Avaliador de Veículos
+city: Balneário Camboriú - SC
+neighborhood: Arriba
+salary: R$ 1.390,00
+requirements: Ensino Médio Completo
+company: Confidencial
+quantity: 01
+benefits: "Vale alimentação/Refeição; Vale transporte"
+---

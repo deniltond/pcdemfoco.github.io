@@ -1,0 +1,19 @@
+---
+title: Garantista
+subtitle: Balneário Camboriú - SC
+layout: default
+modal-id: 38
+date: 2017-03-07
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Executar os processos de garantia e verificar a garantia das peças defeituosas retiradas dos veículos, identificá-las e enviá-las à montadora. </br> Horário: Segunda a sexta das 08:00 as 18:03"
+job: Garantista
+city: Balneário Camboriú - SC
+neighborhood: Arriba
+salary: R$ 1.390,00
+requirements: Ensino Médio
+company: Confidencial
+quantity: 01
+benefits: "Vale alimentação/Refeição; Vale transporte"
+---
