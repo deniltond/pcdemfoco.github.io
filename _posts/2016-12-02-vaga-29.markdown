@@ -15,5 +15,5 @@ salary: A combinar
 requirements: Curso Técnico
 company: Confidencial
 quantity: 01
-benefits: "Vale alimentação/Refeição; Plano de Saúde; Vale transporte; Plano Odontológico"
+benefits: "Vale alimentação/Refeição; Plano de Saúde; Vale transporte;  Plano Odontológico"
 ---
