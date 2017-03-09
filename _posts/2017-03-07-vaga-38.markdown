@@ -11,7 +11,7 @@ description: "Executar os processos de garantia e verificar a garantia das peça
 job: Garantista
 city: Balneário Camboriú - SC
 neighborhood: Arriba
-salary: R$ 1.390,00
+salary: Não informado
 requirements: Ensino Médio
 company: Confidencial
 quantity: 01

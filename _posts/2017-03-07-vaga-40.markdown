@@ -11,7 +11,7 @@ description: "Atender os clientes de pós-vendas, recepcionar os veículos para 
 job: Avaliador de Veículos
 city: Balneário Camboriú - SC
 neighborhood: Arriba
-salary: R$ 1.390,00
+salary: Não informado
 requirements: Ensino Médio Completo
 company: Confidencial
 quantity: 01

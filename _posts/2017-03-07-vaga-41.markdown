@@ -11,7 +11,7 @@ description: "Trabalhar com tapeçaria de automóveis. Com prioridade em instala
 job: Mecânico Tapeceiro
 city: Florianópolis - SC
 neighborhood: Estreito
-salary: R$ 1.750,00
+salary: Não informado
 requirements: Ensino Médio Completo
 company: Confidencial
 quantity: 01
