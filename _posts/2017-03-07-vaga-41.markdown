@@ -1,0 +1,19 @@
+---
+title: Mecânico Tapeceiro
+subtitle: Florianópolis - SC
+layout: default
+modal-id: 41
+date: 2017-03-07
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Trabalhar com tapeçaria de automóveis. Com prioridade em instalação de acessórios e resolução de barulhos internos do veículo. </br> Horário: Segunda a sexta - 08:00 as 18:03"
+job: Mecânico Tapeceiro
+city: Florianópolis - SC
+neighborhood: Estreito
+salary: Não informado
+requirements: Ensino Médio Completo
+company: Confidencial
+quantity: 01
+benefits: "Vale alimentação/Refeição; Vale transporte"
+---

@@ -1,18 +1,18 @@
 ---
-title: Consultor em Pré Vendas
+title: Analista de Suporte e Relacionamento
 subtitle: Florianópolis - SC
 layout: default
-modal-id: 38
+modal-id: 43
 date: 2017-03-15
 img: empresa-confidencial.png
 thumbnail: empresa-confidencial.png
 alt: image-alt
 description: "Horário: das 08:00 às 18:00 segunda a sexta (flexível)"
-job: Consultor em Pré Vendas
+job: Analista de Suporte e Relacionamento
 city: Florianópolis - SC
 neighborhood: Bairro Capoeiras
-salary: 1700 fixo + 950 variável + 2% sobre venda realizada por 12 meses
-requirements: Superior Completo; Boa comunicação oral e escrita; Conhecimento das ferramentas do Office (Word, Excel e Power Point);Facilidade com ferramentas de busca da internet;
+salary: 1.539,96 + 400,00 variável
+requirements: Ensino Médio Completo; Redação da língua portuguesa; Conhecimentos básico do Pacote Office; Conhecimentos básicos em tecnologia;
 company: Confidencial
 quantity: 01
 benefits: "Vale alimentação/Refeição; Plano de Saúde; Vale transporte; Plano Odontológico; PPR/PL"

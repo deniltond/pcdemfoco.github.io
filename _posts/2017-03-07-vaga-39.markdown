@@ -1,0 +1,19 @@
+---
+title: Avaliador de Veículos
+subtitle: Balneário Camboriú - SC
+layout: default
+modal-id: 39
+date: 2017-03-07
+img: empresa-confidencial.png
+thumbnail: empresa-confidencial.png
+alt: image-alt
+description: "Pesquisar periodicamente o mercado automotivo, avaliar os veículos usados que farão parte da negociação na troca por veículos novos ou usados. </br> Horário: Segunda a sábado - Horário a combinar"
+job: Avaliador de Veículos
+city: Balneário Camboriú - SC
+neighborhood: Arriba
+salary: Não informado
+requirements: Ensino Médio Completo
+company: Confidencial
+quantity: 01
+benefits: "Vale alimentação/Refeição; Vale transporte"
+---
